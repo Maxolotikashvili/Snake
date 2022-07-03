@@ -37,8 +37,13 @@ body {
 }
 
 .score {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    transform: translate(10%, 20%);
     font-size: 32px;
     color: white;
+    letter-spacing: 1px;
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
