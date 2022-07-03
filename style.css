@@ -27,7 +27,11 @@ body {
 }
 
 .snake {
-    background-color: blue;
+    /* background-color: blue; */
+    background-image: url('./snake.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     border-radius: 5px;
 }
 
