@@ -27,10 +27,10 @@ body {
 }
 
 .snake {
-    /* background-color: blue; */
-    background-image: url('./snake.jpg');
+    background-image: url('./snake.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     border-radius: 5px;
 }
