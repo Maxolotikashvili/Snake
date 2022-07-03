@@ -35,3 +35,10 @@ body {
     background-color: green;
     border-radius: 50%;
 }
+
+.score {
+    font-size: 32px;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
